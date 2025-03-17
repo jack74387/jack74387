@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jing-Cheng Zhao
+# 👋 Welcome to Jing-Cheng's GitHub!
 ## 📫 Contact Me
 - GitHub: [@jack74387](https://github.com/jack74387)  
 - Email: [jack74387@gmail.com](mailto:jack74387@gmail.com)  
